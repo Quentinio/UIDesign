@@ -6,8 +6,8 @@ A quick design of an app with Flutter.
 
 I've created a small 3 page Ui design of a banking app.
 
-![My Image](assets/screenshots/page1.png)
-![Alt text](assets/screenshots/page1.png)
+![My Image](/assets/screenshots/Page1.png)
+![Alt text](assets/screenshots/Page1.png)
 
 
 For help getting started with Flutter development, view the
