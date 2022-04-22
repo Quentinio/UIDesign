@@ -1,10 +1,10 @@
 # uidesigns
 
-A new Flutter project.
+A quick design of an app with Flutter.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+I've created a small 3 page Ui design of a banking app.
 
 A few resources to get you started if this is your first Flutter project:
 
