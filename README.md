@@ -6,7 +6,7 @@ A quick design of an app with Flutter.
 
 I've created a small 3 page Ui design of a banking app.
 
-![My Image](/assets/screenshots/Page1.png)
+<img src="assets/screenshots/Page1.png" width="100" height="100">
 ![Alt text](assets/screenshots/Page1.png)
 
 
